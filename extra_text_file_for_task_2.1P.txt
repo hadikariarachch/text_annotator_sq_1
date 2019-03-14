@@ -1,0 +1,3 @@
+Hi,
+This file is for the purpose of new added file for committing to git repository
+Thanks.
